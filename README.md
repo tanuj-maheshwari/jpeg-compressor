@@ -1,2 +1,2 @@
 # JPEG Compressor
-A simple JPEG compression and de-compression pipeline imitation.
+A simple JPEG encoding and decoding pipeline imitation.
